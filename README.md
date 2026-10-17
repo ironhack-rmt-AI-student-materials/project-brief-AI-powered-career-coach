@@ -8,6 +8,11 @@ Build an AI-powered Career Coach that helps users prepare for job interviews, im
 
 <br>
 
+<img width="1672" height="941" alt="image" src="https://github.com/user-attachments/assets/92b541a0-8578-48f3-9a85-04bf23d4b20c" />
+
+<br><br>
+
+
 ## Core Requirements
 
 Your application should include, at the very least, the following features:
